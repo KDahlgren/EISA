@@ -1,9 +1,0 @@
-letters,letters
-letters,c1
-letters,c
-a1,letters
-a1,c1
-a1,c
-a,letters
-a,c1
-a,c
